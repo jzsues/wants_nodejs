@@ -1,0 +1,45 @@
+{
+  "name": "wants",
+  "version": "0.0.6",
+  "description": "wants nodejs framework core module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "url": "http://www.ubabytime.com",
+  "homepage": "http://www.ubabytime.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jzsues/wants_nodejs.git"
+  },
+  "keywords": [
+    "wants",
+    "nodejs",
+    "restful",
+    "express",
+    "expressjs"
+  ],
+  "author": {
+    "name": "harold jiang",
+    "email": "jzsues@163.com",
+    "url": "http://www.ubabytime.com"
+  },
+  "license": "BSD",
+  "engines": {
+    "node": ">=0.6.6"
+  },
+  "dependencies": {
+    "generic-pool": "1.0.6",
+    "log4js": "0.5.2",
+    "mongodb": "1.1.6",
+    "mime": "1.2.7",
+    "qs": "0.5.1"
+  },
+  "devDependencies": {},
+  "readme": "wants nodejs framework core module",
+  "_id": "wants@0.0.6",
+  "dist": {
+    "shasum": "0e287f8226bd412a3e1cd815a8f35990c5b6e361"
+  },
+  "_from": "wants@0.0.6"
+}

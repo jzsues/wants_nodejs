@@ -1,6 +1,6 @@
 {
   "name": "wants",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "wants nodejs framework core module",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   },
   "license": "BSD",
   "engines": {
-    "node": ">=0.6.6"
+    "node": ">=0.8.2"
   },
   "dependencies": {
     "generic-pool": "1.0.6",
@@ -37,9 +37,9 @@
   },
   "devDependencies": {},
   "readme": "wants nodejs framework core module",
-  "_id": "wants@0.0.6",
+  "_id": "wants@0.0.8",
   "dist": {
     "shasum": "0e287f8226bd412a3e1cd815a8f35990c5b6e361"
   },
-  "_from": "wants@0.0.6"
+  "_from": "wants@0.0.8"
 }

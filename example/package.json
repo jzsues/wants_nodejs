@@ -9,7 +9,7 @@
     "node": ">=0.8.2"
   },
   "dependencies": {
-    "wants": "0.0.6"
+    "wants": "0.0.7"
   },
   "devDependencies": {},
   "readme":"wants nodejs framework example app"

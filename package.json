@@ -1,6 +1,6 @@
 {
   "name": "wants",
-  "version": "0.0.8",
+  "version": "0.0.11",
   "description": "wants nodejs framework core module",
   "main": "index.js",
   "scripts": {
@@ -31,7 +31,7 @@
   "dependencies": {
     "generic-pool": "1.0.6",
     "log4js": "0.5.2",
-    "mongodb": "1.1.6",
+    "mongodb": "1.2.9",
     "mime": "1.2.7",
     "qs": "0.5.1"
   },
